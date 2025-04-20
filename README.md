@@ -26,6 +26,8 @@ Use .env to configure secrets.
 NAUKRI_USERNAME=<username_or_email>
 PASSWORD=<password>
 PHONE=<phone>
+ORIGINAL_RESUME_PATH=<original_resume>
+MODIFIED_RESUME_PATH=<modified_resume>
 ```
 
 ```bash
